@@ -1,0 +1,22 @@
+{
+	"name": "Vanilla Enchanced",
+	"curator": "Petethegoat",
+	"lastUpdated": "August 2018",
+	"description": "This is a small collection of mostly gameplay mods, designed to complement an otherwise Vanilla installation.",
+	"packages":
+	[
+		"https://raw.githubusercontent.com/Petethegoat/MW-Vanilla-Expanded/master/packages/mwse_nightly.json",
+		"https://raw.githubusercontent.com/Petethegoat/MW-Vanilla-Expanded/master/packages/patch_for_purists.json",
+		"https://raw.githubusercontent.com/Petethegoat/MW-Vanilla-Expanded/master/packages/optimisation_patch.json",
+		"https://raw.githubusercontent.com/Petethegoat/MW-Vanilla-Expanded/master/packages/axe_equip_sound.json",
+		"https://raw.githubusercontent.com/Petethegoat/MW-Vanilla-Expanded/master/packages/delayed_db.json",
+		"https://raw.githubusercontent.com/Petethegoat/MW-Vanilla-Expanded/master/packages/spear_hold_fix.json",
+		"https://raw.githubusercontent.com/Petethegoat/MW-Vanilla-Expanded/master/packages/easy_escort.json",
+		"https://raw.githubusercontent.com/Petethegoat/MW-Vanilla-Expanded/master/packages/expeditious_exit.json",
+		"https://raw.githubusercontent.com/Petethegoat/MW-Vanilla-Expanded/master/packages/power_in_willpower.json",
+		"https://raw.githubusercontent.com/Petethegoat/MW-Vanilla-Expanded/master/packages/intervention_improved.json",
+		"https://raw.githubusercontent.com/Petethegoat/MW-Vanilla-Expanded/master/packages/the_publicans.json",
+		"https://raw.githubusercontent.com/Petethegoat/MW-Vanilla-Expanded/master/packages/sea_of_sound.json",
+		"https://raw.githubusercontent.com/Petethegoat/MW-Vanilla-Expanded/master/packages/near_vanilla_signs.json"
+	]
+}

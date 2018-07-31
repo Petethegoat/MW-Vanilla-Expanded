@@ -1,5 +1,10 @@
 {
-	"name": "Near Vanilla Road Sign Replacer",
+	"name": "Spear Hold Fix",
 	"author": "Atrayonis",
-	"fileURL": "https://api.nexusmods.com/v1/games/morrowind/mods/44957/files/1000011302/download_link"
+	"fileURL": "https://api.nexusmods.com/v1/games/morrowind/mods/43353/files/1000005203/download_link",
+	"folderBlacklist":
+	[
+		"Compatability",
+		"Spear and Staff"
+	]
 }
